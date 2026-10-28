@@ -106,16 +106,16 @@ An interactive report with 5 pages, navigation buttons on every page, and slicer
 1. **Home**
   <img width="2075" height="1200" alt="dashboard_1_home" src="https://github.com/user-attachments/assets/fbf6dce5-4b0b-4590-92e7-8aa3d59c5a68" />
 
-3. **Transaction Overview**
+2. **Transaction Overview**
   <img width="2075" height="1200" alt="dashboard_2_transaction_overview" src="https://github.com/user-attachments/assets/e7d88985-515a-4f9c-9262-53af595f5fd0" />
 
-5. **Time & Trends**
+3. **Time & Trends**
   <img width="2075" height="1200" alt="dashboard_3_time_and_trends" src="https://github.com/user-attachments/assets/c3ec5a62-2d4e-4fa6-82ae-0061e557fee4" />
 
-7. **Merchant & Type**
+4. **Merchant & Type**
   <img width="2075" height="1200" alt="dashboard_4_merchant_and_type" src="https://github.com/user-attachments/assets/047897a5-71d4-4657-ae5a-7128131ea97e" />
 
-9. **Banks & States**
+5. **Banks & States**
    <img width="2075" height="1200" alt="dashboard_5_banks_and_states" src="https://github.com/user-attachments/assets/12152a4d-c662-4e3f-8c84-bff05b3c26e4" />
 
 ## 📁 Large Files (not uploaded to GitHub due to size)
