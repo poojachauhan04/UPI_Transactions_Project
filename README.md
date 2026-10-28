@@ -103,15 +103,20 @@ An interactive report with 5 pages, navigation buttons on every page, and slicer
 
 ## 📸 Dashboard Preview
 
-1. **Home** ![Home](images/dashboard_1_home.png)
+1. **Home**
+  <img width="2075" height="1200" alt="dashboard_1_home" src="https://github.com/user-attachments/assets/fbf6dce5-4b0b-4590-92e7-8aa3d59c5a68" />
 
-2. **Transaction Overview** ![Transaction Overview](images/dashboard_2_transaction_overview.png)
+3. **Transaction Overview**
+  <img width="2075" height="1200" alt="dashboard_2_transaction_overview" src="https://github.com/user-attachments/assets/e7d88985-515a-4f9c-9262-53af595f5fd0" />
 
-3. **Time & Trends** ![Time and Trends](images/dashboard_3_time_and_trends.png)
+5. **Time & Trends**
+  <img width="2075" height="1200" alt="dashboard_3_time_and_trends" src="https://github.com/user-attachments/assets/c3ec5a62-2d4e-4fa6-82ae-0061e557fee4" />
 
-4. **Merchant & Type** ![Merchant and Type](images/dashboard_4_merchant_and_type.png)
+7. **Merchant & Type**
+  <img width="2075" height="1200" alt="dashboard_4_merchant_and_type" src="https://github.com/user-attachments/assets/047897a5-71d4-4657-ae5a-7128131ea97e" />
 
-5. **Banks & States** ![Banks and States](images/dashboard_5_banks_and_states.png)
+9. **Banks & States**
+   <img width="2075" height="1200" alt="dashboard_5_banks_and_states" src="https://github.com/user-attachments/assets/12152a4d-c662-4e3f-8c84-bff05b3c26e4" />
 
 ## 📁 Large Files (not uploaded to GitHub due to size)
 
@@ -157,13 +162,3 @@ An interactive report with 5 pages, navigation buttons on every page, and slicer
 - The reason for a failed transaction is not available, so causes can only be investigated, not proven.
 - The fraud goal of 0.00% is a target, not an industry benchmark.
 - Amounts are in INR only and include no fees or costs.
-
-## 📂 Repository Contents
-
-| File | Description |
-|---|---|
-| `UPI_Transactions_Dashboard.pbix` | Power BI report (5 pages) |
-| `Full_Report_UPI_Transactions.pdf` | Dashboard export (all 5 pages) |
-| `images/` | Dashboard screenshots used in this README |
-
-The transaction data file is linked in the **Large Files** section above.
